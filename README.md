@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🎉 I am a Chinese undergraduate who now major in `Software Engineering` in `University of Electronic Science and Technology of China`.  
+  
 🌱 I’m currently learning about `web`, `cyber security` and trying to understand the basic knowledge of `AI`.  
+
+🔭 I’m currently working on `IELTS` and `TOEFL` test, intending to go to the `United States` for my postgraduate degree.
+  
 📫 How to reach me: 
    - Email: peterqwqtop@gmail.com
    - Github: Here it is!
