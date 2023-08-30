@@ -27,6 +27,4 @@ Here are some ideas to get you started:
   
 ![Most Used Languages](https://github-readme-stats-eight-beige.vercel.app/api/top-langs/?username=Uestc-Young&layout=compact&theme=github_dark&langs_count=8)  
 
-![Uestc-Young's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uestc-Young&show_icons=true&theme=radical)  
-
 [![Uestc-Young's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Uestc-Young&theme=dracula)](https://github.com/Uestc-Young/github-readme-activity-graph)
