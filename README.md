@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 🎉 I am a Chinese undergraduate who now major in `Software Engineering` in `University of Electronic Science and Technology of China`.  
   
-🌱 I’m currently learning about `cyber security`, `Large language model` and `AI4sci`.  
+🌱 I’m currently learning about `Cyber security`, `Large language model` and `AI4sci`.  
 
 🔭 I’m currently working with `UW-Madison` and `Westlake University`.
   
