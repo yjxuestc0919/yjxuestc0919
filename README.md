@@ -16,15 +16,12 @@ Here are some ideas to get you started:
 -->
 🎉 I am a Chinese undergraduate who now major in `Software Engineering` in `University of Electronic Science and Technology of China`.  
   
-🌱 I’m currently learning about `web`, `cyber security` and trying to understand the basic knowledge of `AI`.  
+🌱 I’m currently learning about `cyber security`, `Large language model` and `AI4sci`.  
 
-🔭 I’m currently working on `IELTS` and `TOEFL` test, intending to go to the `United States` for my postgraduate degree.
+🔭 I’m currently working with `UW-Madison` and `Westlake University`.
   
 📫 How to reach me: 
    - Email: peterqwqtop@gmail.com
    - Github: Here it is!
    - Bilibili: Xv33233
-  
-![Most Used Languages](https://github-readme-stats-eight-beige.vercel.app/api/top-langs/?username=Uestc-Young&layout=compact&theme=github_dark&langs_count=8)  
 
-[![Uestc-Young's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Uestc-Young&theme=dracula)](https://github.com/Uestc-Young/github-readme-activity-graph)
