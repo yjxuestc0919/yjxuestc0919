@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   
 🌱 I’m currently learning about `Cyber security`, `Large language model` and `AI4sci`.  
 
-🔭 I’m currently working with `UW-Madison` and `Westlake University`.
+🔭 I’m currently working with `Westlake University` and `University of Macau`.
   
 📫 How to reach me: 
    - Email: peterqwqtop@gmail.com
