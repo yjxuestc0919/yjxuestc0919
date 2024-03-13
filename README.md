@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   
 🌱 I’m currently learning about `Cyber security`, `Large language model`, `AI4sci` and `Automatic driving`.  
 
-🔭 I’m currently working with `Westlake University` and `University of Macau`.
+🔭 I’m currently working with `University of Macau`.
   
 📫 How to reach me: 
    - Email: peterqwqtop@gmail.com
