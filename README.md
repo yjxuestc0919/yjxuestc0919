@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   
 🌱 I’m currently learning about `Cyber security`, `Large language model`, `AI4sci` and `Automatic driving`.  
 
-🔭 I’m currently working with `University of Macau`.I worked as a research assistant at `University of Wisconsin, Madison`, and `WestLake University`, focusing on `LLM` and `AI for bio`, respectively.
+🔭 I’m currently working with `University of Macau`. I worked as a research assistant at `University of Wisconsin, Madison`, and `WestLake University`, focusing on `LLM` and `AI for bio`, respectively.
   
 📫 How to reach me: 
    - Email: peterqwqtop@gmail.com
