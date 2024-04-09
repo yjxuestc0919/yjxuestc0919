@@ -26,19 +26,10 @@ Here are some ideas to get you started:
    - Bilibili: Xv33233
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
+![Profile Views](http://img.shields.io/badge/Profile%20Views-97-blue)
 
 
- Last Updated on 2024-04-09 11:47:34 UTC
+ Last Updated on 2024-04-09 18:33:03 UTC
 <!--END_SECTION:waka-->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Uestc-Young.readme)
