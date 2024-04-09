@@ -25,7 +25,7 @@ Here are some ideas to get you started:
    - Github: Here it is!
    - Bilibili: Xv33233
 
-<!-- waka-box start -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-<!-- waka-box end -->
 ![](https://visitor-badge.glitch.me/badge?page_id=Uestc-Young.readme)
