@@ -26,7 +26,7 @@ Here are some ideas to get you started:
    - Bilibili: Xv33233
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-116-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-131-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -46,7 +46,7 @@ WSL                      1 hr 35 mins        ████████░░░�
 ```
 
 
- Last Updated on 2024-04-11 06:10:54 UTC
+ Last Updated on 2024-04-11 18:32:25 UTC
 <!--END_SECTION:waka-->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Uestc-Young.readme)
