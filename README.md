@@ -26,7 +26,6 @@ Here are some ideas to get you started:
    - Bilibili: Xv33233
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 📊 **This Week I Spent My Time On** 
 
