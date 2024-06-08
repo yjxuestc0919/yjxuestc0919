@@ -26,8 +26,6 @@ Here are some ideas to get you started:
    - Github: Here it is!
    - Bilibili: Xv33233
      
-![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
-
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
 
