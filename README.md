@@ -29,21 +29,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   4 hrs 14 mins       ████████████████████████░   95.38 % 
-YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-
-💻 Operating System: 
-WSL                      4 hrs 26 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 2024-06-14 18:37:13 UTC
+ Last Updated on 2024-06-15 18:35:35 UTC
 <!--END_SECTION:waka-->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Uestc-Young.readme)
