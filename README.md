@@ -27,7 +27,7 @@ Here are some ideas to get you started:
    - Bilibili: Xv33233
      
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -35,16 +35,16 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 26 mins        ██████████████████████░░░   87.40 % 
-YAML                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Python                   22 mins             █████████████████░░░░░░░░   66.26 % 
+YAML                     11 mins             ████████░░░░░░░░░░░░░░░░░   33.43 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 💻 Operating System: 
-WSL                      1 hr 38 mins        █████████████████████████   100.00 % 
+WSL                      26 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2024-06-16 18:35:40 UTC
+ Last Updated on 2024-06-17 18:36:23 UTC
 <!--END_SECTION:waka-->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Uestc-Young.readme)
