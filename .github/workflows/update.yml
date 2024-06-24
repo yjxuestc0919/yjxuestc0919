@@ -16,7 +16,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           COMMIT_BY_ME: "False"
           SHOW_UPDATED_DATE: "True"
-          SHOW_PROFILE_VIEWS: "True"
+          SHOW_PROFILE_VIEWS: "False"
           SHOW_COMMIT: "False"
           UPDATED_DATE_FORMAT: "%Y-%m-%d %H:%M:%S"
           SHOW_OS: "True"
