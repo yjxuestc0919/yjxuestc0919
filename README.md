@@ -33,14 +33,14 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 48 mins             █████████████████████████   100.00 % 
+Markdown                 1 hr 52 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  48 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 52 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2024-07-20 18:36:44 UTC
+ Last Updated on 2024-07-21 18:34:56 UTC
 <!--END_SECTION:waka-->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Uestc-Young.readme)
