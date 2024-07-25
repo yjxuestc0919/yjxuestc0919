@@ -27,8 +27,23 @@ Here are some ideas to get you started:
    - Bilibili: Xv33233
      
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 2024-07-24 18:39:42 UTC
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Markdown                 2 hrs 35 mins       ██████████████░░░░░░░░░░░   55.04 % 
+C++                      2 hrs 2 mins        ███████████░░░░░░░░░░░░░░   43.60 % 
+Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+
+💻 Operating System: 
+Windows                  2 hrs 35 mins       ██████████████░░░░░░░░░░░   55.04 % 
+WSL                      2 hrs 6 mins        ███████████░░░░░░░░░░░░░░   44.96 % 
+```
+
+
+ Last Updated on 2024-07-25 18:35:50 UTC
 <!--END_SECTION:waka-->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Uestc-Young.readme)
