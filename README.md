@@ -33,14 +33,16 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 hrs 31 mins       ████████████████████████░   97.59 % 
+Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      2 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2024-09-04 18:38:21 UTC
+ Last Updated on 2024-09-05 18:39:03 UTC
 <!--END_SECTION:waka-->
 Total Coding Time Since April 9 2024:
 [![wakatime](https://wakatime.com/badge/user/018ec14b-e820-4cd0-9355-392b716a8277.svg)](https://wakatime.com/@018ec14b-e820-4cd0-9355-392b716a8277)
