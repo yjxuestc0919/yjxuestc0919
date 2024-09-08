@@ -27,22 +27,8 @@ Here are some ideas to get you started:
    - Bilibili: Xv33233
      
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   2 hrs 42 mins       ████████████████████████░   97.75 % 
-Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-💻 Operating System: 
-WSL                      2 hrs 46 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 2024-09-07 18:37:53 UTC
+ Last Updated on 2024-09-08 18:38:17 UTC
 <!--END_SECTION:waka-->
 Total Coding Time Since April 9 2024:
 [![wakatime](https://wakatime.com/badge/user/018ec14b-e820-4cd0-9355-392b716a8277.svg)](https://wakatime.com/@018ec14b-e820-4cd0-9355-392b716a8277)
