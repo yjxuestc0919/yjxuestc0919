@@ -33,15 +33,15 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 10 mins       ██████████████████░░░░░░░   70.58 % 
-Markdown                 1 hr 19 mins        ███████░░░░░░░░░░░░░░░░░░   29.42 % 
+Python                   3 hrs 58 mins       █████████████████░░░░░░░░   66.65 % 
+Markdown                 1 hr 59 mins        ████████░░░░░░░░░░░░░░░░░   33.35 % 
 
 💻 Operating System: 
-Windows                  4 hrs 30 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2024-10-31 18:41:58 UTC
+ Last Updated on 2024-11-01 18:41:41 UTC
 <!--END_SECTION:waka-->
 Total Coding Time Since April 9 2024:
 [![wakatime](https://wakatime.com/badge/user/018ec14b-e820-4cd0-9355-392b716a8277.svg)](https://wakatime.com/@018ec14b-e820-4cd0-9355-392b716a8277)
