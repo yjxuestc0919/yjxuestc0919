@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   
 📫 How to reach me: 
    - Email: peterqwqtop@gmail.com
-<<!--   - Academic Page: [junxianyanguestc.github.io](https://junxianyanguestc.github.io/)-->>
+<!--   - Academic Page: [junxianyanguestc.github.io](https://junxianyanguestc.github.io/)-->
    - Github: Here it is!
    - Bilibili: Xv33233
      
