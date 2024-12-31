@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   
 🌱 I’m currently learning about `(Multimodal) Large language model`, `Autonomous driving` and `AI4sci`.  
 
-🔭 Previously, I was a research assistant at `University of Macao`, `University of Wisconsin, Madison` and `WestLake University`, focusing on `Autonomous Driving`, `LLM4Code` and `AI4Bio`, respectively. I am currently working as a deep learning algorithm intern at `Siemens`.
+🔭 I am currently working as a deep learning algorithm intern at `Siemens Chengdu`.
   
 📫 How to reach me: 
    - Email: peterqwqtop@gmail.com
