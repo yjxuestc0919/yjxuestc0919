@@ -33,18 +33,14 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 53 mins       █████████████████░░░░░░░░   69.75 % 
-HTML                     58 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-YAML                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-JavaScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 hrs 24 mins       ████████████████████░░░░░   78.88 % 
-Windows                  1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 2025-01-06 18:41:34 UTC
+ Last Updated on 2025-01-07 18:41:28 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/018ec14b-e820-4cd0-9355-392b716a8277.svg)](https://wakatime.com/@018ec14b-e820-4cd0-9355-392b716a8277)
 
