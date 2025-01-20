@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 🎉 I am a Chinese undergraduate who now major in `Software Engineering` in `University of Electronic Science and Technology of China`.  
   
-🌱 I’m currently interested in (Multimodal) Large language model and Backend Dev.  
+🌱 I’m currently interested in (Multimodal) Large Language Model and Backend Dev.  
 
 🔭 I am currently working as a deep learning algorithm intern at `Siemens Chengdu`.
   
