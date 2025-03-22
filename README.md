@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   
 🌱 I’m currently interested in (Multimodal) Large Language Model and Backend Dev.  
 
-🔭 I am currently working as a deep learning algorithm intern at `Siemens Chengdu`.
+🔭 I will join the `University of Science and Technology of China(USTC)` as a master student in 2025 fall.
   
 📫 How to reach me: 
    - Email: peterqwqtop@gmail.com
