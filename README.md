@@ -46,5 +46,3 @@ Windows                  3 hrs 35 mins       ███████████�
  Last Updated on 2025-04-27 18:41:26 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/018ec14b-e820-4cd0-9355-392b716a8277.svg)](https://wakatime.com/@018ec14b-e820-4cd0-9355-392b716a8277)
-
-![](https://visitor-badge.glitch.me/badge?page_id=Uestc-Young.readme)
