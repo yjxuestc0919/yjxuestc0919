@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🎉 I am a Chinese undergraduate who now major in `Software Engineering` in `University of Electronic Science and Technology of China`.  
+🎉 Master student in `University of Science and Technology of China`.  
   
-🌱 I’m currently interested in (Multimodal) Large Language Model and Backend Dev.  
+<!--🌱 I’m currently interested in (Multimodal) Large Language Model and Backend Dev.  -->
 
-🔭 I will join the `University of Science and Technology of China(USTC)` as a master student in 2025 fall.
+<!--🔭 I will join the `University of Science and Technology of China(USTC)` as a master student in 2025 fall.-->
   
 📫 How to reach me: 
    - Email: peterqwqtop@gmail.com
