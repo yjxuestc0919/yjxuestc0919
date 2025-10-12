@@ -33,13 +33,15 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr                █████████████████████████   99.79 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      52 mins             ██████████████████████░░░   86.31 % 
+Windows                  8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
 ```
 
 
- Last Updated on 2025-10-11 18:39:23 UTC
+ Last Updated on 2025-10-12 18:40:57 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/018ec14b-e820-4cd0-9355-392b716a8277.svg)](https://wakatime.com/@018ec14b-e820-4cd0-9355-392b716a8277)
