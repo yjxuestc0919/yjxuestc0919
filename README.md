@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🎉 Master student in `University of Science and Technology of China`.  
+🎉 MS@`University of Science and Technology of China`.  Interested in LLM Post Training and Reinforcement Learning.
   
 <!--🌱 I’m currently interested in (Multimodal) Large Language Model and Backend Dev.  -->
 
