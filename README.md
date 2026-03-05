@@ -33,17 +33,17 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 55 mins       █████████████████░░░░░░░░   67.69 % 
-JSON                     57 mins             ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
-Markdown                 26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Python                   1 hr 20 mins        ███████████████░░░░░░░░░░   58.25 % 
+JSON                     35 mins             ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
+Markdown                 22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Mac                      4 hrs 19 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2026-03-04 19:09:35 UTC
+ Last Updated on 2026-03-05 19:39:12 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/018ec14b-e820-4cd0-9355-392b716a8277.svg)](https://wakatime.com/@018ec14b-e820-4cd0-9355-392b716a8277)
