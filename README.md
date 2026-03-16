@@ -33,17 +33,19 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               2 hrs 43 mins       ████████████░░░░░░░░░░░░░   49.53 % 
-Python                   1 hr 25 mins        ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
-JSON                     34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-Markdown                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-YAML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+Python                   6 hrs               █████████████████░░░░░░░░   67.62 % 
+JavaScript               1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
+Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 
 💻 Operating System: 
-Mac                      5 hrs 30 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 45 mins       █████████████░░░░░░░░░░░░   53.49 % 
+Mac                      3 hrs 47 mins       ███████████░░░░░░░░░░░░░░   42.72 % 
+Windows                  20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
 ```
 
 
- Last Updated on 2026-03-15 19:02:40 UTC
+ Last Updated on 2026-03-16 19:32:02 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/018ec14b-e820-4cd0-9355-392b716a8277.svg)](https://wakatime.com/@018ec14b-e820-4cd0-9355-392b716a8277)
