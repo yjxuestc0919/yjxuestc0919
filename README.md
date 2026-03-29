@@ -33,19 +33,19 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   16 hrs 2 mins       ██████████████████████░░░   87.50 % 
-Markdown                 1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-Git Config               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Python                   15 hrs 41 mins      ██████████████████████░░░   87.18 % 
+Markdown                 1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Git Config               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 Operating System: 
-Linux                    13 hrs 52 mins      ███████████████████░░░░░░   75.68 % 
-Mac                      3 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
-Windows                  50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+Linux                    13 hrs 16 mins      ██████████████████░░░░░░░   73.73 % 
+Mac                      3 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
+Windows                  50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
 ```
 
 
- Last Updated on 2026-03-28 19:04:34 UTC
+ Last Updated on 2026-03-29 19:06:23 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/018ec14b-e820-4cd0-9355-392b716a8277.svg)](https://wakatime.com/@018ec14b-e820-4cd0-9355-392b716a8277)
