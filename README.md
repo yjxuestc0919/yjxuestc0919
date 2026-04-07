@@ -33,13 +33,17 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 13 mins             ████████████░░░░░░░░░░░░░   46.54 % 
+CSS                      9 mins              ████████░░░░░░░░░░░░░░░░░   32.46 % 
+Other                    5 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      29 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2026-04-06 19:33:35 UTC
+ Last Updated on 2026-04-07 19:34:34 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/018ec14b-e820-4cd0-9355-392b716a8277.svg)](https://wakatime.com/@018ec14b-e820-4cd0-9355-392b716a8277)
