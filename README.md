@@ -33,16 +33,16 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   23 mins             ████████████████████░░░░░   80.52 % 
-Other                    4 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Markdown                 51 mins             █████████████░░░░░░░░░░░░   52.96 % 
+Python                   23 mins             ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
+Other                    20 mins             █████░░░░░░░░░░░░░░░░░░░░   21.68 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 💻 Operating System: 
-Mac                      29 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 36 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2026-06-08 20:36:55 UTC
+ Last Updated on 2026-06-09 20:22:51 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/018ec14b-e820-4cd0-9355-392b716a8277.svg)](https://wakatime.com/@018ec14b-e820-4cd0-9355-392b716a8277)
