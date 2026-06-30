@@ -33,17 +33,16 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-SSH Config               12 mins             ██████████████░░░░░░░░░░░   57.15 % 
-Markdown                 5 mins              ██████░░░░░░░░░░░░░░░░░░░   25.74 % 
-Python                   1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-TOML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Markdown                 5 mins              ███████████████░░░░░░░░░░   60.07 % 
+Python                   1 min               █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
+TOML                     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+JSON                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
 
 💻 Operating System: 
-Mac                      22 mins             █████████████████████████   100.00 % 
+Mac                      9 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2026-06-29 20:19:40 UTC
+ Last Updated on 2026-06-30 20:25:06 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/018ec14b-e820-4cd0-9355-392b716a8277.svg)](https://wakatime.com/@018ec14b-e820-4cd0-9355-392b716a8277)
