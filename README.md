@@ -27,23 +27,48 @@ Here are some ideas to get you started:
    - Bilibili: Xv33233
      
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%203%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   34.66 % 
-Bash                     2 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   33.24 % 
-Python                   1 hr 50 mins        ███████░░░░░░░░░░░░░░░░░░   26.97 % 
-SSH Config               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Markdown                 2 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   34.42 % 
+Bash                     2 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   33.01 % 
+Python                   1 hr 50 mins        ███████░░░░░░░░░░░░░░░░░░   26.78 % 
+SSH Config               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 💻 Operating System: 
-Mac                      6 hrs 50 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 52 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 6 hrs 49 mins (99.1%)
+
+✍️ 5,339 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 133,013,951 Input Tokens, 375,598 Output Tokens
+
+💵 $655.16 Estimated AI Cost This Week
+
+🧠 8 AI Sessions, 85 AI Prompts
+
+GPT                      5,342 lines         █████████████████████████   100.00 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 8,266 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 2026-07-26 19:41:15 UTC
+ Last Updated on 2026-07-27 20:00:55 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/018ec14b-e820-4cd0-9355-392b716a8277.svg)](https://wakatime.com/@018ec14b-e820-4cd0-9355-392b716a8277)
