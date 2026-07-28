@@ -27,7 +27,7 @@ Here are some ideas to get you started:
    - Bilibili: Xv33233
      
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-606%20hrs%205%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -45,30 +45,7 @@ JSON                     3 mins              ░░░░░░░░░░░�
 Mac                      6 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
-🤖 **AI Coding This Week** 
 
-```text
-⏱ AI Coding Time: 6 hrs 49 mins (99.1%)
-
-✍️ 5,339 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 133,013,951 Input Tokens, 375,598 Output Tokens
-
-💵 $655.16 Estimated AI Cost This Week
-
-🧠 8 AI Sessions, 85 AI Prompts
-
-GPT                      5,342 lines         █████████████████████████   100.00 % 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 8,266 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
-
- Last Updated on 2026-07-27 20:00:55 UTC
+ Last Updated on 28/07/2026 09:20:07 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/018ec14b-e820-4cd0-9355-392b716a8277.svg)](https://wakatime.com/@018ec14b-e820-4cd0-9355-392b716a8277)
