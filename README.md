@@ -33,14 +33,12 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 30 mins        ██████████████░░░░░░░░░░░   56.03 % 
-Bash                     31 mins             █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
-Other                    16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-SSH Config               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+Bash                     20 mins             █████████████████░░░░░░░░   69.03 % 
+SSH Config               8 mins              ███████░░░░░░░░░░░░░░░░░░   29.43 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 
 💻 Operating System: 
-Mac                      2 hrs 42 mins       █████████████████████████   100.00 % 
+Mac                      29 mins             █████████████████████████   100.00 % 
 ```
 
 
