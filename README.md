@@ -33,12 +33,13 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   38 mins             ███████████████████████░░   90.09 % 
-Text                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-SSH Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Other                    1 hr 4 mins         ███████████████░░░░░░░░░░   60.39 % 
+Python                   38 mins             █████████░░░░░░░░░░░░░░░░   35.68 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+SSH Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 💻 Operating System: 
-Mac                      42 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 46 mins        █████████████████████████   100.00 % 
 ```
 
 
