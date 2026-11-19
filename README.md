@@ -33,13 +33,13 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 9 hrs 58 mins       ███████████████████░░░░░░   77.46 % 
-Other                    2 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
+Markdown                 9 hrs 58 mins       ███████████████████░░░░░░   77.60 % 
+Other                    2 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
 Python                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Mac                      12 hrs 52 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 
