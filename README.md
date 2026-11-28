@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 6 mins         █████████████████████████   100.00 % 
+Other                    47 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 6 mins         █████████████████████████   100.00 % 
+Mac                      47 mins             █████████████████████████   100.00 % 
 ```
 
 
